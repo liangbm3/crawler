@@ -1,0 +1,6 @@
+**/video/
+*.ts
+*.mp4
+*.log
+**/__pycache__/
+
